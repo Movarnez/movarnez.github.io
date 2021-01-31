@@ -7,4 +7,4 @@ layout: post
 tag: Kikofri
 ---
 
-Here to stay, huh..?
+<img src="https://media0.giphy.com/media/lMUGMp2lImgGA/giphy.gif">

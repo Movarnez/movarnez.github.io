@@ -6,12 +6,6 @@ happen to work on."
 layout: pages
 ---
 
-{% comment %}
-    You should probably delete everything here and write
-    something for yourself.
-{% endcomment %}  
-
-
 _This is a simple introduction of [insert something here]_.
 
 ## ..myself #
