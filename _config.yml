@@ -25,12 +25,12 @@ lang: es_ES
 
 # Default post and page image if it's those
 # are unspecified.
-image: https://avatars.githubusercontent.com/u/78277943?s=460&u=4ab4a009247394bebca017c8552b509eb481b853&v=4
+image: https://avatars.githubusercontent.com/u/78277943?
 
 # I just set this to whatever the above
 # image value is.
 # Could be some other image though.
-logo:
+logo: https://avatars.githubusercontent.com/u/78277943?
 #
 # # # # #
 
